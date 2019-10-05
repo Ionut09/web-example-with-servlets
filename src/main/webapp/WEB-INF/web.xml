@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<web-app>
+    <welcome-file-list>
+        <welcome-file>index.html</welcome-file>
+    </welcome-file-list>
+
+<!--    <servlet>-->
+<!--        <servlet-name>helloServlet</servlet-name>-->
+<!--        <servlet-class>controller.HelloServlet</servlet-class> &lt;!&ndash;  fully qualified name &ndash;&gt;-->
+<!--&lt;!&ndash;        <init-param>&ndash;&gt;-->
+<!--&lt;!&ndash;            <param-name>name</param-name>&ndash;&gt;-->
+<!--&lt;!&ndash;            <param-value>Gigi</param-value>&ndash;&gt;-->
+<!--&lt;!&ndash;        </init-param>&ndash;&gt;-->
+<!--    </servlet>-->
+
+<!--    <servlet-mapping>-->
+<!--        <servlet-name>helloServlet</servlet-name> &lt;!&ndash; the same name as in the definition&ndash;&gt;-->
+<!--        <url-pattern>/hello</url-pattern>-->
+<!--    </servlet-mapping>-->
+
+</web-app>
